@@ -7,15 +7,15 @@ Usage
 -----
 Clone this repo to your TextMate Bundles directory.  On the Mac this is located, or should be created, in a TextMate Bundles directory under your user's library application support:
 
-  cd ~/Library/Application\ Support/TextMate/Bundles/
+> cd ~/Library/Application\ Support/TextMate/Bundles/
 
 Once in the correct directory, run the following command:
 
-  git clone git@github.com:toddsampson/SoftwareLicense.git
+> git clone git@github.com:toddsampson/SoftwareLicense.git
 
 Finally, open TextMate and select:
 
-  Bundles -> Bundle Editor -> Reload Bundles
+> Bundles -> Bundle Editor -> Reload Bundles
 
 This will add SoftwareLicense to your Bundles menu.  When a license or license block is selected from this menu, it will insert at the current cursor location.
 
