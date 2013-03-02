@@ -1,5 +1,5 @@
-Software License TextMate Bundle
-================================
+Open Source Software License TextMate Bundle
+============================================
 TextMate Bundle for adding popular open source licenses and Doxygen compatible (JavaDoc format) header/license comment blocks to your software code.  I've included the licenses I use most -- GPL3, Affero GPL3, Apache 2.0, and MIT -- in the initial bundle.  For each, there is a full license that can be used to create a license page in your project.  There is also a License Block version to add as a header to each source code file.
 
 
