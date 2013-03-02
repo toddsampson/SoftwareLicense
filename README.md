@@ -5,7 +5,7 @@ TextMate Bundle for adding popular open source licenses and Doxygen compatible (
 
 Usage
 -----
-Clone this repo to your TextMate Bundles directory.  On the Mac this is located, or should be created, in a TextMate Bundles directory under your user's library application support:
+Clone this repo to your TextMate Bundles directory.  On the Mac this is located, or should be created, in a TextMate Bundles directory under your user's application support library:
 
 > cd ~/Library/Application\ Support/TextMate/Bundles/
 
