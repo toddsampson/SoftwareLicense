@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>3B3122F1-A70F-4F3C-B743-353A8F709B11</string>
+			<string>EB51194B-586E-4CE3-AF7F-E5706EDD3A9C</string>
+		</array>
+		<key>submenus</key>
+		<dict>
+			<key>3B3122F1-A70F-4F3C-B743-353A8F709B11</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>5AB9B72D-FD56-481D-AFA0-28C6ED9F1AFA</string>
+					<string>EF672A62-4006-43A3-A87D-8C7A71F7D97D</string>
+					<string>E9D78189-969A-4D4C-8215-9F347C2B232A</string>
+					<string>05EED528-E536-4F23-8B05-9707DBF2C84C</string>
+				</array>
+				<key>name</key>
+				<string>License Blocks</string>
+			</dict>
+			<key>EB51194B-586E-4CE3-AF7F-E5706EDD3A9C</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>B1A7A6E5-5E05-48C2-8C63-F556E9602408</string>
+					<string>3639D973-47F1-43AC-A156-C4F2158FEC34</string>
+					<string>986B52EE-A033-40F9-8BE7-1D7AF9E31C78</string>
+					<string>AFD1213B-39D8-4FF3-AB43-C26743E07177</string>
+				</array>
+				<key>name</key>
+				<string>Full Licenses</string>
+			</dict>
+		</dict>
+	</dict>
+	<key>name</key>
+	<string>SoftwareLicense</string>
+	<key>ordering</key>
+	<array>
+		<string>B1A7A6E5-5E05-48C2-8C63-F556E9602408</string>
+		<string>5AB9B72D-FD56-481D-AFA0-28C6ED9F1AFA</string>
+		<string>986B52EE-A033-40F9-8BE7-1D7AF9E31C78</string>
+		<string>E9D78189-969A-4D4C-8215-9F347C2B232A</string>
+		<string>05EED528-E536-4F23-8B05-9707DBF2C84C</string>
+		<string>3639D973-47F1-43AC-A156-C4F2158FEC34</string>
+		<string>EF672A62-4006-43A3-A87D-8C7A71F7D97D</string>
+		<string>AFD1213B-39D8-4FF3-AB43-C26743E07177</string>
+	</array>
+	<key>uuid</key>
+	<string>BDE1B2A5-2066-40BA-A93C-98E0B30CA963</string>
+</dict>
+</plist>
